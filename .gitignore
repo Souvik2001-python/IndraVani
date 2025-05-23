@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django migrations (optional: track migrations)
+**/migrations/*.pyc
+**/migrations/__pycache__/
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Secret settings
+.env
+*.env
+*.secret
+
+# Static and media files
+staticfiles/
+media/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python virtual environments
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
+
+# OneDrive sync/conflict files
+*.tmp
+~$*
+
+# Cache files
+*.html.tmp
+*.cache
+.cache/
