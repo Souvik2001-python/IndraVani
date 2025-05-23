@@ -1,0 +1,1 @@
+Weather Web Application built with Python and Django. It fetches real-time weather data for any city and dynamically updates the background with relevant city images using Google Search API—offering an interactive and visually engaging user experience.
